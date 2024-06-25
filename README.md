@@ -1,6 +1,12 @@
+<figure class="image">
+<p align="center">
+<img src="https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP/blob/main/Images/Banner_Consejo.png" width="auto" height="auto">
+
 # Visor datos consejeros OPP
 
 ### Alvaro Villamizar
+
+https://github.com/AlvaroVillamizar/Visor-datos-consejeros-OPP/assets/43424429/1a0c01de-fc77-4a57-acef-3028aed95038
 
 Enlace del reporte: https://app.powerbi.com/reportEmbed?reportId=8742b678-59f0-4d13-94be-09c054836c1a
 
